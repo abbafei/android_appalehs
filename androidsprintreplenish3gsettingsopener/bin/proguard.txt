@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:12
+-keep class com.abbafei.android.androidsprintreplenish3gsettingsopener.Androidsprintreplenish3gsettingsopenerActivity { <init>(...); }
+
